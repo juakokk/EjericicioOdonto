@@ -234,7 +234,7 @@ class Paciente extends db_abstract_class
         $tmp->Disconnect();
         return $arrPacientes;
     }
-//hola
+
     public static function getAll()
     {
         return Paciente::buscar("SELECT * FROM odontologos.paciente");
