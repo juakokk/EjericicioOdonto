@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6fe50ee7-c7a6-4856-90b3-9e05be16dd9a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Modelo/Paciente.php" afterPath="$PROJECT_DIR$/Modelo/Paciente.php" />
-    </list>
+    <list default="true" id="6fe50ee7-c7a6-4856-90b3-9e05be16dd9a" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -100,28 +98,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Paciente.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Paciente.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Modelo/Paciente.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="236" column="6" lean-forward="false" selection-start-line="236" selection-start-column="6" selection-end-line="236" selection-end-column="6" />
+            <state relative-caret-position="546">
+              <caret line="246" column="29" lean-forward="true" selection-start-line="246" selection-start-column="29" selection-end-line="246" selection-end-column="29" />
               <folding>
-                <marker date="1488131485635" expanded="true" signature="3572:3626" ph="SELECT * FRO... paciente" />
-                <marker date="1488131485635" expanded="true" signature="5154:5188" ph="SELECT * FRO... paciente" />
-                <marker date="1488131485635" expanded="true" signature="5262:5334" ph="INSERT INTO odontologos.paciente... " />
-                <marker date="1488131485635" expanded="true" signature="5775:5938" ph="UPDATE odont... " />
-                <marker date="1488131485635" expanded="true" signature="6339:6388" ph="Select * Fro... cita" />
-                <marker date="1488131485635" expanded="true" signature="6546:6591" ph="DELETE FROM " />
+                <marker date="1488121347791" expanded="true" signature="3572:3626" ph="SELECT * FRO... paciente" />
+                <marker date="1488121347791" expanded="true" signature="5148:5182" ph="SELECT * FRO... paciente" />
+                <marker date="1488121347791" expanded="true" signature="5256:5328" ph="INSERT INTO odontologos.paciente... " />
+                <marker date="1488121347791" expanded="true" signature="5769:5932" ph="UPDATE odont... " />
+                <marker date="1488121347791" expanded="true" signature="6333:6382" ph="Select * Fro... cita" />
+                <marker date="1488121347791" expanded="true" signature="6540:6585" ph="DELETE FROM " />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pacienteController.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pacienteController.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Controlador/pacienteController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="527">
+              <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -163,9 +161,6 @@
       <find>$arrayOdonto</find>
     </findStrings>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -177,12 +172,12 @@
         <option value="$PROJECT_DIR$/../EjemploMVC/Modelo/Paciente.php" />
         <option value="$PROJECT_DIR$/Vista/pages/adminEspecialistas.php" />
         <option value="$PROJECT_DIR$/Modelo/Especialista.php" />
+        <option value="$PROJECT_DIR$/Modelo/Paciente.php" />
         <option value="$PROJECT_DIR$/Controlador/pacienteController.php" />
         <option value="$PROJECT_DIR$/Vista/pages/registroPaciente.php" />
         <option value="$PROJECT_DIR$/Vista/pages/includes/menuIzquierdo.php" />
         <option value="$PROJECT_DIR$/Vista/pages/actualizarEspecialista.php" />
         <option value="$PROJECT_DIR$/Controlador/especialistaController.php" />
-        <option value="$PROJECT_DIR$/Modelo/Paciente.php" />
       </list>
     </option>
   </component>
@@ -378,12 +373,12 @@
       <workItem from="1487700473034" duration="23100000" />
       <workItem from="1487801522374" duration="8938000" />
       <workItem from="1487980424291" duration="4862000" />
-      <workItem from="1488059596560" duration="18700000" />
+      <workItem from="1488059596560" duration="18306000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60189000" />
+    <option name="totallyTimeSpent" value="59795000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -443,12 +438,12 @@
         <state relative-caret-position="4471">
           <caret line="263" column="43" lean-forward="false" selection-start-line="263" selection-start-column="43" selection-end-line="263" selection-end-column="43" />
           <folding>
-            <marker date="1488131485635" expanded="true" signature="3572:3626" ph="SELECT * FRO... paciente" />
-            <marker date="1488131485635" expanded="true" signature="5154:5188" ph="SELECT * FRO... paciente" />
-            <marker date="1488131485635" expanded="true" signature="5262:5334" ph="INSERT INTO odontologos.paciente... " />
-            <marker date="1488131485635" expanded="true" signature="5775:5938" ph="UPDATE odont... " />
-            <marker date="1488131485635" expanded="true" signature="6339:6388" ph="Select * Fro... cita" />
-            <marker date="1488131485635" expanded="true" signature="6546:6591" ph="DELETE FROM " />
+            <marker date="1488121347791" expanded="true" signature="3572:3626" ph="SELECT * FRO... paciente" />
+            <marker date="1488121347791" expanded="true" signature="5148:5182" ph="SELECT * FRO... paciente" />
+            <marker date="1488121347791" expanded="true" signature="5256:5328" ph="INSERT INTO odontologos.paciente... " />
+            <marker date="1488121347791" expanded="true" signature="5769:5932" ph="UPDATE odont... " />
+            <marker date="1488121347791" expanded="true" signature="6333:6382" ph="Select * Fro... cita" />
+            <marker date="1488121347791" expanded="true" signature="6540:6585" ph="DELETE FROM " />
           </folding>
         </state>
       </provider>
@@ -533,12 +528,12 @@
         <state relative-caret-position="4148">
           <caret line="244" column="71" lean-forward="false" selection-start-line="244" selection-start-column="71" selection-end-line="244" selection-end-column="71" />
           <folding>
-            <marker date="1488131485635" expanded="true" signature="3572:3626" ph="SELECT * FRO... paciente" />
-            <marker date="1488131485635" expanded="true" signature="5154:5188" ph="SELECT * FRO... paciente" />
-            <marker date="1488131485635" expanded="true" signature="5262:5334" ph="INSERT INTO odontologos.paciente... " />
-            <marker date="1488131485635" expanded="true" signature="5775:5938" ph="UPDATE odont... " />
-            <marker date="1488131485635" expanded="true" signature="6339:6388" ph="Select * Fro... cita" />
-            <marker date="1488131485635" expanded="true" signature="6546:6591" ph="DELETE FROM " />
+            <marker date="1488121347791" expanded="true" signature="3572:3626" ph="SELECT * FRO... paciente" />
+            <marker date="1488121347791" expanded="true" signature="5148:5182" ph="SELECT * FRO... paciente" />
+            <marker date="1488121347791" expanded="true" signature="5256:5328" ph="INSERT INTO odontologos.paciente... " />
+            <marker date="1488121347791" expanded="true" signature="5769:5932" ph="UPDATE odont... " />
+            <marker date="1488121347791" expanded="true" signature="6333:6382" ph="Select * Fro... cita" />
+            <marker date="1488121347791" expanded="true" signature="6540:6585" ph="DELETE FROM " />
           </folding>
         </state>
       </provider>
@@ -616,12 +611,12 @@
         <state relative-caret-position="340">
           <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
           <folding>
-            <marker date="1488131485635" expanded="true" signature="3572:3626" ph="SELECT * FRO... paciente" />
-            <marker date="1488131485635" expanded="true" signature="5154:5188" ph="SELECT * FRO... paciente" />
-            <marker date="1488131485635" expanded="true" signature="5262:5334" ph="INSERT INTO odontologos.paciente... " />
-            <marker date="1488131485635" expanded="true" signature="5775:5938" ph="UPDATE odont... " />
-            <marker date="1488131485635" expanded="true" signature="6339:6388" ph="Select * Fro... cita" />
-            <marker date="1488131485635" expanded="true" signature="6546:6591" ph="DELETE FROM " />
+            <marker date="1488121347791" expanded="true" signature="3572:3626" ph="SELECT * FRO... paciente" />
+            <marker date="1488121347791" expanded="true" signature="5148:5182" ph="SELECT * FRO... paciente" />
+            <marker date="1488121347791" expanded="true" signature="5256:5328" ph="INSERT INTO odontologos.paciente... " />
+            <marker date="1488121347791" expanded="true" signature="5769:5932" ph="UPDATE odont... " />
+            <marker date="1488121347791" expanded="true" signature="6333:6382" ph="Select * Fro... cita" />
+            <marker date="1488121347791" expanded="true" signature="6540:6585" ph="DELETE FROM " />
           </folding>
         </state>
       </provider>
@@ -794,6 +789,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Modelo/Paciente.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="246" column="29" lean-forward="true" selection-start-line="246" selection-start-column="29" selection-end-line="246" selection-end-column="29" />
+          <folding>
+            <marker date="1488121347791" expanded="true" signature="3572:3626" ph="SELECT * FRO... paciente" />
+            <marker date="1488121347791" expanded="true" signature="5148:5182" ph="SELECT * FRO... paciente" />
+            <marker date="1488121347791" expanded="true" signature="5256:5328" ph="INSERT INTO odontologos.paciente... " />
+            <marker date="1488121347791" expanded="true" signature="5769:5932" ph="UPDATE odont... " />
+            <marker date="1488121347791" expanded="true" signature="6333:6382" ph="Select * Fro... cita" />
+            <marker date="1488121347791" expanded="true" signature="6540:6585" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Vista/pages/registroPaciente.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
@@ -865,24 +875,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Controlador/pacienteController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="527">
+          <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modelo/Paciente.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="236" column="6" lean-forward="false" selection-start-line="236" selection-start-column="6" selection-end-line="236" selection-end-column="6" />
-          <folding>
-            <marker date="1488131485635" expanded="true" signature="3572:3626" ph="SELECT * FRO... paciente" />
-            <marker date="1488131485635" expanded="true" signature="5154:5188" ph="SELECT * FRO... paciente" />
-            <marker date="1488131485635" expanded="true" signature="5262:5334" ph="INSERT INTO odontologos.paciente... " />
-            <marker date="1488131485635" expanded="true" signature="5775:5938" ph="UPDATE odont... " />
-            <marker date="1488131485635" expanded="true" signature="6339:6388" ph="Select * Fro... cita" />
-            <marker date="1488131485635" expanded="true" signature="6546:6591" ph="DELETE FROM " />
-          </folding>
         </state>
       </provider>
     </entry>
